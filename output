@@ -1,4 +1,25 @@
-
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Research projects by Yuanfan Ying.">
+  <meta name="theme-color" content="#f8fafc">
+  <title>Research Projects | Yuanfan Ying</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="site-name" href="index.html">Yuanfan Ying</a>
+      <nav aria-label="Main navigation">
+        <a href="index.html#about">About</a>
+        <a href="research.html">Research</a>
+        <a href="index.html#news">News</a>
+        <a href="index.html#publications">Publications</a>
+      </nav>
+    </div>
+  </header>
 
 <section class="section" id="publications">
       <div class="section-heading">
